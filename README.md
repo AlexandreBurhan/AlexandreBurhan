@@ -1,7 +1,7 @@
 <img width="1280" height="443" alt="github-banner-photo" src="https://github.com/user-attachments/assets/22d16fdd-2e4e-4a94-a048-57187c9fcac0" />
 
 # Hey, I'm Alexandre 👋
-Data Analysis|Automation|Operations
+Data Analysis | Automation | Operations
 
 *Three years across France, the United States and Spain at Canal+, Air France KLM, and now papernest.*
 
