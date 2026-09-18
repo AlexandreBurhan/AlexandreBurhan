@@ -1,3 +1,4 @@
+<img width="1280" height="443" alt="github-banner-photo" src="https://github.com/user-attachments/assets/4b33edf3-270a-484f-a7d4-a69dcd3ef5e5" />
 ## Hey, I'm Alexandre 👋
 
 # Data Analysis · Automation · Operations
