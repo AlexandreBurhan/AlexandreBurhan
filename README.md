@@ -3,7 +3,7 @@
 # Hey, I'm Alexandre 👋
 Data Analysis | Automation | Operations
 
-*Three years across France, the United States and Spain at Canal+, Air France KLM, and now papernest.*
+*Three years of experience across France, the United States and Spain at Canal+, Air France KLM, and now papernest.*
 
 When I joined my current team, two things struck me.
 
