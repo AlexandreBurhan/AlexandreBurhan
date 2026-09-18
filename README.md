@@ -10,7 +10,7 @@ Callback slots were being opened by feel every week, even though every number ne
 
 Same problem, twice: the knowledge existed, it just wasn't in a system and it was not governed either. So I started building the systems.
 
-I work in Operation for a contact centre across 4 sites and 8 outsourced partners. The job is about making sure decisions get made on numbers that are actually true.
+I work in Operation for a contact centre across 4 sites and 8 outsourced partners. The job is about making sure decisions get made on numbers that are actually true. and taking the repetitive work off people's plates, if a task runs the same way every week, it shouldn't need a person to remember it.
 
 ### What I've built
 
